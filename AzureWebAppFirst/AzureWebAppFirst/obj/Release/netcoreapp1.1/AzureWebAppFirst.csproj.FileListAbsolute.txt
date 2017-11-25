@@ -1,0 +1,10 @@
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\bin\Release\netcoreapp1.1\AzureWebAppFirst.deps.json
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\bin\Release\netcoreapp1.1\AzureWebAppFirst.runtimeconfig.json
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\bin\Release\netcoreapp1.1\AzureWebAppFirst.runtimeconfig.dev.json
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\bin\Release\netcoreapp1.1\AzureWebAppFirst.dll
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\bin\Release\netcoreapp1.1\AzureWebAppFirst.pdb
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\obj\Release\netcoreapp1.1\AzureWebAppFirst.csprojResolveAssemblyReference.cache
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\obj\Release\netcoreapp1.1\AzureWebAppFirst.csproj.CoreCompileInputs.cache
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\obj\Release\netcoreapp1.1\AzureWebAppFirst.AssemblyInfo.cs
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\obj\Release\netcoreapp1.1\AzureWebAppFirst.dll
+D:\AzureApp\AureFirstAppDemo\AzureWebAppFirst\AzureWebAppFirst\obj\Release\netcoreapp1.1\AzureWebAppFirst.pdb
